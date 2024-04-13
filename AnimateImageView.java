@@ -11,10 +11,13 @@ import com.facebook.rebound.SpringSystem;
 /**
  * Created by xmuSistone.
  */
+ hfuhjjfjyf
+ hhegfgey
+ yunni
 public class AnimateImageView extends FloatingActionButton {
     private Spring springX, springY;
     private SimpleSpringListener followerListenerX, followerListenerY; // 此为跟踪的回调，当前面一个view移动的时候，此为后面的view，需要更新endValue
-
+S
     public AnimateImageView(Context context) {
         this(context, null);
     }
